@@ -11,9 +11,9 @@
     align-items: center;
 
 }
-.yellowimg{
-    width: 200px;
-    height: 200px;
+.yellow-img{
+    width: 300px;
+    height: 300px;
     border-radius: 20px;
 }
 .wrapper{
@@ -32,7 +32,7 @@
 
 }
 button{
-    background-color: hsl(47, 88%, 63%);
+    background-color: hsl(47, 88%, 63%); 
     margin-top: 20px;
     border-radius: 5px;
     padding: 5px;
@@ -68,6 +68,6 @@ h3{
     width: 45px;
     top: -40px;
 }
-
+ 
 
     
